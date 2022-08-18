@@ -1,11 +1,11 @@
 ### Olá! Eu sou o Igor Silveira
 
 - 🔭 Atualmente não trabalho na area de desenvolvimento porém estou em busca de uma transição de carreira
-- 🌱 Estou estudando Desenvolvimento web Fullstack e finalizando a faculdade de analise e desenvolvimento de sistemas.
+- 🌱 Estou estudando Desenvolvimento Fullstack e formado em analise e desenvolvimento de sistemas.
 - 🤔 Uma primeira oportunidade com desenvolvimento
 - 📫 Contate-me no email: igor.nqs@outlook.com
 - 😄 Pronouns: Ele/ Dele
-- ⚡ Fun fact: Atualmente eu trabalho como analista de FP&A porém estudo TI, oque deixa os recrutadores confusos rs.
+
 
 <div>
   <a href="https://github.com/IgorSilveira09">

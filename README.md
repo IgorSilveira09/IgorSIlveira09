@@ -1,10 +1,5 @@
 ### Olá! Eu sou o Igor Silveira
 
-- 🔭 Atualmente não trabalho na area de desenvolvimento porém estou em busca de uma transição de carreira
-- 🌱 Estou estudando Desenvolvimento Fullstack e formado em analise e desenvolvimento de sistemas.
-- 🤔 Uma primeira oportunidade na área.
-- 📫 Contate-me no email: igor.nqs@outlook.com
-- 😄 Pronouns: Ele/ Dele
 
 
 <div>
